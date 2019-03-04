@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-import redfin.PageObjectFiles.City_Search_Results_Redfin;
+import redfin.PageObjectFiles.Area_Search_Results;
 import redfin.PageObjectFiles.Main_Page_Redfin;
 
 public class testDriver {

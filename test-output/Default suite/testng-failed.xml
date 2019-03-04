@@ -6,14 +6,4 @@
       <class name="redfin.TestScript.E2E.Real_Estate_Assertion_E2E"/>
     </classes>
   </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
-      <class name="redfin.TestScript.E2E.Real_Estate_Assertion_E2E">
-        <methods>
-          <include name="Close"/>
-          <include name="Real_Estate_Assertion_Test"/>
-        </methods>
-      </class> <!-- redfin.TestScript.E2E.Real_Estate_Assertion_E2E -->
-    </classes>
-  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
