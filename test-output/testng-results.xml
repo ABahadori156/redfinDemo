@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18288" started-at="2019-03-04T16:50:50Z" finished-at="2019-03-04T16:51:09Z">
+  <suite name="Default suite" duration-ms="21500" started-at="2019-03-04T20:41:15Z" finished-at="2019-03-04T20:41:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18288" started-at="2019-03-04T16:50:50Z" finished-at="2019-03-04T16:51:09Z">
+    <test name="Default test" duration-ms="21500" started-at="2019-03-04T20:41:15Z" finished-at="2019-03-04T20:41:37Z">
       <class name="redfin.TestScript.E2E.Real_Estate_Assertion_E2E">
-        <test-method status="PASS" signature="Real_Estate_Assertion_Test()[pri:0, instance:redfin.TestScript.E2E.Real_Estate_Assertion_E2E@56cbfb61]" name="Real_Estate_Assertion_Test" duration-ms="18248" started-at="2019-03-04T08:50:50Z" finished-at="2019-03-04T08:51:09Z">
+        <test-method status="PASS" signature="Real_Estate_Assertion_Test()[pri:0, instance:redfin.TestScript.E2E.Real_Estate_Assertion_E2E@56cbfb61]" name="Real_Estate_Assertion_Test" duration-ms="21223" started-at="2019-03-04T12:41:15Z" finished-at="2019-03-04T12:41:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Real_Estate_Assertion_Test -->
-        <test-method status="PASS" signature="Close()[pri:0, instance:redfin.TestScript.E2E.Real_Estate_Assertion_E2E@56cbfb61]" name="Close" is-config="true" duration-ms="1" started-at="2019-03-04T08:51:09Z" finished-at="2019-03-04T08:51:09Z">
+        <test-method status="PASS" signature="Close()[pri:0, instance:redfin.TestScript.E2E.Real_Estate_Assertion_E2E@56cbfb61]" name="Close" is-config="true" duration-ms="242" started-at="2019-03-04T12:41:36Z" finished-at="2019-03-04T12:41:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Close -->
